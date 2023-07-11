@@ -47,3 +47,10 @@ img {
         background-color: #4CAF50;
         color: white;
     }
+    footer {
+        background-color: grey;
+        color: black;
+        text-align: center;
+        padding: 5px;
+        font-size: 1.3em;
+    }
