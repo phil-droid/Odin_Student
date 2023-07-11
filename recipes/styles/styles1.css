@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    background-color: beige;
+}
+
+h1 {
+    color: red;
+    font-size: 5em;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+    text-align: center;
+}
+ .list a {
+    display: inline-block;
+    color: Black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+ }
+    .list a:hover {
+        background-color: cyan;
+    }
+    .list a:visited {
+        color: #800080;
+      }
+    .list a:active {
+        background-color: #4CAF50;
+        color: white;
+    }
