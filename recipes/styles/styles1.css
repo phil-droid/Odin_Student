@@ -9,7 +9,12 @@ h1 {
     text-align: center;
     text-shadow: 2px 2px 2px black;
 }
-
+h4 {
+    color: rgb(255, 0, 0);
+    font-size: 2em;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
 img {
     display: block;
     margin-left: auto;
